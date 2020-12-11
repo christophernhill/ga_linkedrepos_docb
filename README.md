@@ -2,4 +2,4 @@
 Github actions linked repos doc set b repo
 
 
-On PR runs tests in docs using code from code repo main
+On PR runs tests in docs using code from code repo main or particular commit
